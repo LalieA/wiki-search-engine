@@ -1,0 +1,11 @@
+doc/
+dws/
+.vscode/
+__pycache__/
+doc/
+*.dict
+*.txt
+*.json
+*.model
+*.pyc
+*.npy
